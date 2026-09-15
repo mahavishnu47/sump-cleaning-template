@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahavishnu47.github.io/sump-cleaning-template/sitemap.xml
